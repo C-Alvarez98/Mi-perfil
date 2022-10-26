@@ -6,7 +6,7 @@ Este es un porfolio creado con HTML, CSS y JavaScript usando metodologia BEM.
 **Alvarez Cristian**
 
 * [LinkedIn](https://www.linkedin.com/in/c-alvarez98/)
-* [Mi Porfolio]()
+* [Mi Porfolio](https://c-alvarez98.github.io/Mi-perfil/)
 
 ## Ver ejemplos en vivo
 - [https://c-alvarez98.github.io/Mi-perfil/]
